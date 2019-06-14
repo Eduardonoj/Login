@@ -1,0 +1,7 @@
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\bin\Debug\CADUsuario.dll.config
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\bin\Debug\CADUsuario.dll
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\bin\Debug\CADUsuario.pdb
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\obj\Debug\CADUsuario.csprojAssemblyReference.cache
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\obj\Debug\CADUsuario.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\obj\Debug\CADUsuario.dll
+C:\Users\EDUARDO\source\repos\AppCrudLogin\CADUsuario\obj\Debug\CADUsuario.pdb
